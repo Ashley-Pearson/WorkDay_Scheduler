@@ -24,7 +24,16 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
-![Example]
+## Usage
+* This calendar displays work hours of the current day from 8:00 AM to 5:00 PM.
+* On the top of the page it displays the current date.
+* Each timeblock has an input field and a save button that will store the users schedule.
+* Each time block is color coded for past, present and future to idicate when the appointment occurs.
+* Once appointment is saved, it will be stored in local storage.
+
+## URL: https://ashley-pearson.github.io/WorkDay_Scheduler/
+
+![Example] 
 
 
 
